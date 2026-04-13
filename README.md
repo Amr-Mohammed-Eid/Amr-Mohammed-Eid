@@ -8,7 +8,17 @@ Third-year computer science student focused on machine learning research. Curren
 
 ## Tech stack
 
-`Python` `PyTorch` `NumPy` `Linear algebra` `ML fundamentals` `Git` `C++` `Algorithms & data structures`
+**Languages**
+`Python` `C++` `C` `SQL` `Bash`
+
+**ML / deep learning**
+`PyTorch` `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `TransformerLens` `CUDA (learning)`
+
+**CS fundamentals**
+`Algorithms & data structures` `Linear algebra` `Probability & statistics` `Numerical methods` `Discrete math`
+
+**Tools & workflow**
+`Git & GitHub` `Linux` `Jupyter` `VS Code` `LaTeX`
 
 ---
 
@@ -28,8 +38,8 @@ Working through Andrew Ng's Deep Learning Specialization alongside Stanford's ML
 
 ## Contact
 
+- [LinkedIn](https://www.linkedin.com/in/amr-mohamed-64332a37a)
 - Open to research collaboration and internship opportunities
-- [LinkedIn](https://linkedin.com/in/amr)
 
 ---
 
