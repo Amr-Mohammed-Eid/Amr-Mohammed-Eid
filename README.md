@@ -14,9 +14,6 @@ Third-year computer science student focused on machine learning research. Curren
 **ML / deep learning**
 `PyTorch` `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `TransformerLens` `CUDA (learning)`
 
-**CS fundamentals**
-`Algorithms & data structures` `Linear algebra` `Calculus` `Probability & statistics` `Numerical methods` `Discrete math`  
-
 **Tools & workflow**
 `Git & GitHub` `Linux` `Jupyter` `VS Code`
 
