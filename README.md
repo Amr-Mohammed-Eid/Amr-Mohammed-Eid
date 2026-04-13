@@ -1,6 +1,6 @@
-# Hi, I'm Amr
+# Amr Mohamed
 
-**CS student · Aspiring ML Research Engineer**
+**`CS student · Aspiring ML Research Engineer`**
 
 Third-year computer science student focused on machine learning research. Currently working through deep learning fundamentals and building toward a career at a frontier AI lab.
 
