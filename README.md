@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Amr
 
+**CS student · Aspiring ML Research Engineer**
 
-**Amr-Mohammed-Eid/Amr-Mohammed-Eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year computer science student focused on machine learning research. Currently working through deep learning fundamentals and building toward a career at a frontier AI lab.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech stack
 
+`Python` `PyTorch` `NumPy` `Linear algebra` `ML fundamentals` `Git` `C++` `Algorithms & data structures`
+
+---
+
+## Current projects
+
+### Grokking reproduction
+Reproducing Neel Nanda's mechanistic interpretability paper on grokking using TransformerLens. Studying phase transitions in neural network generalization.
+
+`PyTorch` `TransformerLens` `Interpretability`
+
+### Deep learning specialization
+Working through Andrew Ng's Deep Learning Specialization alongside Stanford's ML course. Implementing architectures from scratch.
+
+`Deep learning` `Coursework`
+
+---
+
+## Contact
+
+- Open to research collaboration and internship opportunities
+- [LinkedIn](https://linkedin.com/in/amr)
+
+---
+
+*Always learning · Egypt*
