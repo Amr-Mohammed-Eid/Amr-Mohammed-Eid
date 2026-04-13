@@ -9,16 +9,16 @@ Third-year computer science student focused on machine learning research. Curren
 ## Tech stack
 
 **Languages**
-`Python` `C++` `C` `SQL` `Bash`
+`Python` `C++` `C` `SQL` `Java`
 
 **ML / deep learning**
 `PyTorch` `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `TransformerLens` `CUDA (learning)`
 
 **CS fundamentals**
-`Algorithms & data structures` `Linear algebra` `Probability & statistics` `Numerical methods` `Discrete math`
+`Algorithms & data structures` `Linear algebra` `Calculus` `Probability & statistics` `Numerical methods` `Discrete math`  
 
 **Tools & workflow**
-`Git & GitHub` `Linux` `Jupyter` `VS Code` `LaTeX`
+`Git & GitHub` `Linux` `Jupyter` `VS Code`
 
 ---
 
