@@ -2,7 +2,7 @@
 
 **`CS student · ML Engineer · Aspiring ML Research Engineer`**
 
-Third-year computer science student focused on machine learning research. Currently working through deep learning fundamentals and building toward a career at a frontier AI lab.
+Third-year computer science student focused on machine learning research. Completed core deep learning fundamentals; currently expanding into advanced topics and research-oriented AI development.
 
 ---
 
