@@ -26,11 +26,6 @@ Reproducing Neel Nanda's mechanistic interpretability paper on grokking using Tr
 
 `PyTorch` `TransformerLens` `Interpretability`
 
-### Deep learning specialization
-Working through Andrew Ng's Deep Learning Specialization alongside Stanford's ML course. Implementing architectures from scratch.
-
-`Deep learning` `Coursework`
-
 ---
 
 ## Contact
