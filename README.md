@@ -48,7 +48,8 @@ Built the foundations through the Mathematics for ML Specialization, ML Speciali
 ---
 
 ## 🔜 Upcoming Projects
-"Current & planned projects — building toward mechanistic interpretability research"
+
+`Current & planned projects — building toward mechanistic interpretability research`
 
 ### 🔬 Grokking Reproduction *(Planned — Phase 1)*
 > Reproducing Power et al. (2022) — training a small transformer on modular arithmetic and observing delayed generalization. Phase 1 focuses on reproducing the phenomenon; Phase 2 will involve full mechanistic analysis using TransformerLens.
