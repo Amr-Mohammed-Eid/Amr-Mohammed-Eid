@@ -50,16 +50,17 @@ My long-term goal is to contribute to interpretability and alignment research at
 
 ## 🚧 Current & Planned Projects
 
-### 📄 Deep Learning Paper Reproduction
+### 🔍 Grokking Reproduction
 
-Reproducing foundational deep learning papers directly from original implementations and research descriptions to strengthen research engineering skills.
+Reproducing the grokking phenomenon from *Power et al. (2022)* using small transformers trained on modular arithmetic tasks, followed by mechanistic analysis with TransformerLens.
 
-Potential reproductions:
-- ResNet
-- GANs
-- Early transformer architectures
+**Focus Areas**
+- Training dynamics
+- Delayed generalization
+- Circuit discovery
+- Feature evolution during training
 
-`PyTorch` `Paper Reproduction` `Research Engineering`
+`PyTorch` `TransformerLens` `Mechanistic Interpretability`
 
 ---
 
@@ -77,17 +78,16 @@ Planned analysis includes:
 
 ---
 
-### 🔍 Grokking Reproduction
+### 📄 Deep Learning Paper Reproduction
 
-Reproducing the grokking phenomenon from *Power et al. (2022)* using small transformers trained on modular arithmetic tasks, followed by mechanistic analysis with TransformerLens.
+Reproducing foundational deep learning papers directly from original implementations and research descriptions to strengthen research engineering skills.
 
-**Focus Areas**
-- Training dynamics
-- Delayed generalization
-- Circuit discovery
-- Feature evolution during training
+Potential reproductions:
+- ResNet
+- GANs
+- Early transformer architectures
 
-`PyTorch` `TransformerLens` `Mechanistic Interpretability`
+`PyTorch` `Paper Reproduction` `Research Engineering`
 
 ---
 
@@ -100,7 +100,6 @@ Reproducing the grokking phenomenon from *Power et al. (2022)* using small trans
 | Deep Learning Specialization | DeepLearning.AI | ✅ |
 
 ---
-
 
 ## 🎯 Current Focus
 
