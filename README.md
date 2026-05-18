@@ -2,9 +2,9 @@
 
 **`CS Student · Aspiring ML Research Engineer`**
 
-Third-year Computer Science student at an Egyptian university, working toward a career in ML research — specifically **mechanistic interpretability** at frontier AI labs. I care about understanding *why* neural networks work, not just making them work.
+Third-year Computer Science student at (AASTMT) , working toward a career in ML research — specifically **mechanistic interpretability** at frontier AI labs. I care about understanding *why* neural networks work, not just building them.
 
-Currently building the foundations: deep learning theory, transformer architecture, and the mathematical toolkit for serious research.
+Built the foundations through the Mathematics for ML Specialization, ML Specialization, and Deep Learning Specialization — now focused on research-oriented work in mechanistic interpretability.
 
 ---
 
@@ -12,7 +12,6 @@ Currently building the foundations: deep learning theory, transformer architectu
 
 - **Mechanistic Interpretability** — circuits, features, and understanding neural network internals
 - **Transformer Architecture** — attention mechanisms, induction heads, superposition
-- Influenced by: Chris Olah's circuits work, Neel Nanda's grokking analysis, the ARENA curriculum
 
 ---
 
@@ -71,33 +70,18 @@ Currently building the foundations: deep learning theory, transformer architectu
 
 ---
 
-### 📊 Titanic — Kaggle Competition
-> Binary classification on the Titanic survival dataset. Feature engineering, model selection, and iterative improvement. Scored ~0.77 on the public leaderboard.
-
-`Python` `Scikit-learn` `Pandas` `Feature Engineering`
-
----
-
-### 🖥️ Multi-Server Queue Simulation
-> Discrete-event simulation of a multi-server queueing system built from scratch in Python. Includes Monte Carlo analysis and performance metrics (wait time, utilization, queue length distributions).
-
-`Python` `Simulation` `Probability` `NumPy`
-
----
-
 ## 📚 Certifications
-
-| Course | Institution | Status |
-|--------|-------------|--------|
-| Deep Learning Specialization | DeepLearning.AI (Andrew Ng) | ✅ Completed |
-| Mathematics for ML: Linear Algebra | Imperial College London | ✅ Completed |
-| Mathematics for ML: Multivariate Calculus | Imperial College London | ✅ Completed |
+ 
+| Course | Institution | Instructor(s) | Status |
+|--------|-------------|---------------|--------|
+| Mathematics for Machine Learning Specialization | Imperial College London | David Dye, Samuel J. Cooper, A. Bharath | ✅ Completed |
+| Machine Learning Specialization | Stanford / DeepLearning.AI | Andrew Ng | ✅ Completed |
+| Deep Learning Specialization | DeepLearning.AI | Andrew Ng | ✅ Completed |
 
 ---
 
 ## 📍 Currently
 
-- 📖 Working through the **ARENA** mechanistic interpretability curriculum
 - 🔨 Building toward my first TransformerLens project (Grokking reproduction)
 - 🎓 Preparing for MSc applications in ML/AI (targeting Germany → PhD track)
 
